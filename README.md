@@ -5,8 +5,8 @@ Aplicativo criado apenas com Javascript, HTML e CSS, com a finalidade de reforca
 
 <h2>🖥️ Home </h2>
 <p align="center">
-  <img alt="Home" src="folder/1.png" width="48%">
-  <img alt="Pages" src="folder/2.png" width="48%">
+  <img alt="Home" src="folders/1.png" width="48%">
+  <img alt="Pages" src="folders/2.png" width="48%">
 </p>
 
 ## ✨ Tecnologias
